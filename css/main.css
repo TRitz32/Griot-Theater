@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.flexbox-container {
+    display: flex;
+    justify-content: center;
+}
+
+.flexbox-item {
+    width: 200px;
+    margin: 10px;
+    padding: 40px;
+    justify-content: flex-end;
+}
+
+.flexbox-item-1 {
+    min-height: 100px;
+}
+
+
+.flexbox-item-2 {
+    min-height: 200px;
+}
+
+.flexbox-items-3 {
+    min-height: 300px;
+    color: white;
+}
+
+.readmore {
+    text-align: center;
+    background-color: #F3A847;
+    color: black; 
+    border: 2px solid black;
+    width: 15%;
+    margin: auto;
+    
+}
